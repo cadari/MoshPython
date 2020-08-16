@@ -11,3 +11,4 @@ isNewPatient = True
 print ( "Name of the patient: " + name )
 print ( "Age: " + str(age))
 print ( "Is a new patient: " + str(isNewPatient))
+
